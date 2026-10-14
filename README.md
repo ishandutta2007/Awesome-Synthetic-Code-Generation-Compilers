@@ -78,104 +78,104 @@ A curated comparison of leading commercial platforms for synthetic code generati
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading open-source repositories powering autonomous coding agents, terminal developer companions, self-hosted Copilot alternatives, and synthetic compiler toolchains. **Sorted in descending order by GitHub Star Count.**
+Explore the leading open-source repositories powering autonomous coding agents, terminal developer companions, self-hosted Copilot alternatives, and synthetic compiler toolchains. **Sorted in descending order by GitHub Stars_Count.**
 
-### 1. ⚡ [OpenCode](https://github.com/anomalyco/opencode) [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)
+### 1. ⚡ [OpenCode](https://github.com/anomalyco/opencode) [![GitHub_Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers)
 * **Description**: Terminal-native AI coding agent built for raw developer speed. Completely free with Bring-Your-Own-Key (BYOK) architecture across 75+ model providers via the AI SDK and Models.dev catalog. Features native remote/SSH support and OpenCode Zen for intelligent model routing.
 * **Tech Stack**: TypeScript, Go, AI SDK, Models.dev
 * **License**: MIT
 
-### 2. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
+### 2. 🤖 [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) [![GitHub_Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)
 * **Description**: The pioneering open-source autonomous agent framework. Features a modular block-based agent builder, long-horizon goal decomposition, integrated memory systems, and automated command execution loops for multi-step software synthesis.
 * **Tech Stack**: Python, TypeScript, Docker, Poetry
 * **License**: MIT
 
-### 3. 👐 [OpenHands](https://github.com/OpenHands/OpenHands) [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)
+### 3. 👐 [OpenHands](https://github.com/OpenHands/OpenHands) [![GitHub_Stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=social&color=white)](https://github.com/OpenHands/OpenHands/stargazers)
 * **Description**: SOTA platform for building and running autonomous AI coding agents. Provides sandboxed Docker execution environments, multi-session agent management, universal agent controllers, and scored over 77% on SWE-Bench. Demonstrated end-to-end compiler synthesis (`ralph-cc-go`).
 * **Tech Stack**: Python, Docker, React, FastAPI
 * **License**: MIT
 
-### 4. 🏢 [MetaGPT](https://github.com/FoundationAgents/MetaGPT) [![GitHub stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)
+### 4. 🏢 [MetaGPT](https://github.com/FoundationAgents/MetaGPT) [![GitHub_Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)
 * **Description**: Multi-agent collaborative meta-programming framework that simulates an entire software company. Assigns specialized roles (Product Manager, System Architect, Project Manager, Engineer, QA) to LLMs to output PRDs, design diagrams, API specs, and clean source code from a one-line prompt.
 * **Tech Stack**: Python, Multi-Agent Orchestration, Mermaid
 * **License**: MIT
 
-### 5. 🧑‍💻 [Cline](https://github.com/cline/cline) [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)
+### 5. 🧑‍💻 [Cline](https://github.com/cline/cline) [![GitHub_Stars](https://img.shields.io/github/stars/cline/cline?style=social&color=white)](https://github.com/cline/cline/stargazers)
 * **Description**: Open-source autonomous coding agent for VS Code, JetBrains, Cursor, Windsurf, and CLI. Model-unrestricted (Claude, GPT, Gemini, local Ollama) with the most mature Model Context Protocol (MCP) toolchain integration and human-in-the-loop permission safeguards.
 * **Tech Stack**: TypeScript, VS Code Extension API, MCP
 * **License**: Apache-2.0
 
-### 6. 🪿 [Goose](https://github.com/aaif-goose/goose) [![GitHub stars](https://img.shields.io/github/stars/aaif-goose/goose?style=social&color=white)](https://github.com/aaif-goose/goose/stargazers)
+### 6. 🪿 [Goose](https://github.com/aaif-goose/goose) [![GitHub_Stars](https://img.shields.io/github/stars/aaif-goose/goose?style=social&color=white)](https://github.com/aaif-goose/goose/stargazers)
 * **Description**: Rust-based open-source autonomous AI agent from Block, now hosted under the Agentic AI Foundation at the Linux Foundation. Desktop application and CLI connecting to 15+ providers and 70+ extensions over Model Context Protocol (MCP) for coding, debugging, and workflow automation.
 * **Tech Stack**: Rust, MCP, Tauri, Tokio
 * **License**: Apache-2.0
 
-### 7. 🛠️ [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) [![GitHub stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social&color=white)](https://github.com/AntonOsika/gpt-engineer/stargazers)
+### 7. 🛠️ [gpt-engineer](https://github.com/AntonOsika/gpt-engineer) [![GitHub_Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social&color=white)](https://github.com/AntonOsika/gpt-engineer/stargazers)
 * **Description**: Groundbreaking CLI platform that specifies, structures, and synthesizes entire codebases from natural language descriptions. Interactively clarifies ambiguities before writing code, creating a reproducible blueprint for automated development.
 * **Tech Stack**: Python, Typer, OpenAI API
 * **License**: MIT
 
-### 8. 💻 [Aider](https://github.com/Aider-AI/aider) [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)
+### 8. 💻 [Aider](https://github.com/Aider-AI/aider) [![GitHub_Stars](https://img.shields.io/github/stars/Aider-AI/aider?style=social&color=white)](https://github.com/Aider-AI/aider/stargazers)
 * **Description**: Terminal-based AI pair programming tool with best-in-class git integration. Automatically maps repository structures via Tree-sitter, performs multi-file code modifications, and executes automatic linter and test self-correction loops before generating clean git commits.
 * **Tech Stack**: Python, GitPython, Tree-sitter
 * **License**: Apache-2.0
 
-### 9. 🔄 [Continue.dev](https://github.com/continuedev/continue) [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)
+### 9. 🔄 [Continue.dev](https://github.com/continuedev/continue) [![GitHub_Stars](https://img.shields.io/github/stars/continuedev/continue?style=social&color=white)](https://github.com/continuedev/continue/stargazers)
 * **Description**: Open-source AI code assistant for VS Code and JetBrains. Features model-agnostic BYOK architecture supporting any cloud or local LLM (Ollama, LM Studio), tab autocomplete, custom slash commands, and source-controlled AI checks enforceable directly in CI/CD.
 * **Tech Stack**: TypeScript, Python, React
 * **License**: Apache-2.0
 
-### 10. 🐱 [Tabby](https://github.com/TabbyML/tabby) [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)
+### 10. 🐱 [Tabby](https://github.com/TabbyML/tabby) [![GitHub_Stars](https://img.shields.io/github/stars/TabbyML/tabby?style=social&color=white)](https://github.com/TabbyML/tabby/stargazers)
 * **Description**: Self-hosted, on-premises alternative to GitHub Copilot. Packaged as a single self-contained Rust binary with no DBMS required, consumer-grade GPU support, and built-in Answer Engine for internal knowledge retrieval and codebase indexing.
 * **Tech Stack**: Rust, ONNX Runtime, CUDA, ROCm
 * **License**: Apache-2.0
 
-### 11. 🧭 [Pythagora GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) [![GitHub stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)
+### 11. 🧭 [Pythagora GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) [![GitHub_Stars](https://img.shields.io/github/stars/Pythagora-io/gpt-pilot?style=social&color=white)](https://github.com/Pythagora-io/gpt-pilot/stargazers)
 * **Description**: Autonomous AI developer that builds production web applications step by step from a functional specification. Interacts with the human developer for architecture confirmation and runs real execution tests to verify every generated module.
 * **Tech Stack**: Python, JavaScript, VS Code Extension
 * **License**: MIT
 
-### 12. ⚡ [Kilo Code](https://github.com/Kilo-Org/kilocode) [![GitHub stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social&color=white)](https://github.com/Kilo-Org/kilocode/stargazers)
+### 12. ⚡ [Kilo Code](https://github.com/Kilo-Org/kilocode) [![GitHub_Stars](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=social&color=white)](https://github.com/Kilo-Org/kilocode/stargazers)
 * **Description**: Free and open-source coding extension for VS Code, JetBrains, and CLI supporting 500+ models. Features transparent zero-markup API passthrough, flexible BYOK options, and shared team configuration without requiring proprietary subscription plans.
 * **Tech Stack**: TypeScript, VS Code API
 * **License**: MIT
 
-### 13. 🦘 [Roo Code](https://github.com/RooCodeInc/Roo-Code) [![GitHub stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers)
+### 13. 🦘 [Roo Code](https://github.com/RooCodeInc/Roo-Code) [![GitHub_Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=social&color=white)](https://github.com/RooCodeInc/Roo-Code/stargazers)
 * **Description**: Autonomous AI dev team extension inside VS Code. Provides role-based agent personas (Architect, Code, Ask, Debugger, Test), deep Model Context Protocol (MCP) server support, custom system prompts, and granular diff inspections.
 * **Tech Stack**: TypeScript, VS Code Extension API, MCP
 * **License**: Apache-2.0
 
-### 14. 🖥️ [Dyad](https://github.com/dyad-sh/dyad) [![GitHub stars](https://img.shields.io/github/stars/dyad-sh/dyad?style=social&color=white)](https://github.com/dyad-sh/dyad/stargazers)
+### 14. 🖥️ [Dyad](https://github.com/dyad-sh/dyad) [![GitHub_Stars](https://img.shields.io/github/stars/dyad-sh/dyad?style=social&color=white)](https://github.com/dyad-sh/dyad/stargazers)
 * **Description**: Local-first, open-source desktop AI application builder that compiles and executes web projects directly on your workstation using your personal API keys. Ensures zero cloud telemetry and maximum data privacy.
 * **Tech Stack**: TypeScript, Electron, React
 * **License**: MIT
 
-### 15. 🧠 [Devika](https://github.com/stitionai/devika) [![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)
+### 15. 🧠 [Devika](https://github.com/stitionai/devika) [![GitHub_Stars](https://img.shields.io/github/stars/stitionai/devika?style=social&color=white)](https://github.com/stitionai/devika/stargazers)
 * **Description**: Open-source agentic software engineer capable of understanding complex user requests, breaking them into sequential tasks, conducting web research via Playwright browser automation, and writing complete project codebases.
 * **Tech Stack**: Python, TypeScript, Playwright, React
 * **License**: MIT
 
-### 16. 📋 [Plandex](https://github.com/plandex-ai/plandex) [![GitHub stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)
+### 16. 📋 [Plandex](https://github.com/plandex-ai/plandex) [![GitHub_Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=social&color=white)](https://github.com/plandex-ai/plandex/stargazers)
 * **Description**: Terminal-based AI coding engine built for complex software engineering tasks. Executes in isolated sandboxes with git-style branching, multi-stage planning, diff inspection, and safe rollback capabilities.
 * **Tech Stack**: Go, Tree-sitter, Git
 * **License**: AGPL-3.0
 
-### 17. 👶 [smol developer](https://github.com/smol-ai/developer) [![GitHub stars](https://img.shields.io/github/stars/smol-ai/developer?style=social&color=white)](https://github.com/smol-ai/developer/stargazers)
+### 17. 👶 [smol developer](https://github.com/smol-ai/developer) [![GitHub_Stars](https://img.shields.io/github/stars/smol-ai/developer?style=social&color=white)](https://github.com/smol-ai/developer/stargazers)
 * **Description**: Minimal, transparent prototype of an autonomous software developer. Synthesizes an entire multi-file codebase from a single product specification in under 200 lines of clean Python code.
 * **Tech Stack**: Python, OpenAI API
 * **License**: MIT
 
-### 18. 🧹 [Sweep](https://github.com/sweepai/sweep) [![GitHub stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)
+### 18. 🧹 [Sweep](https://github.com/sweepai/sweep) [![GitHub_Stars](https://img.shields.io/github/stars/sweepai/sweep?style=social&color=white)](https://github.com/sweepai/sweep/stargazers)
 * **Description**: Autonomous AI junior developer that turns GitHub issues into tested pull requests. Runs automatically within GitHub Actions, parses CI error logs, and writes clean code patches with unit tests.
 * **Tech Stack**: Python, GitHub API, Tree-sitter
 * **License**: AGPL-3.0
 
-### 19. 🧱 [Totalum AI App Builder](https://github.com/totalumlabs/ai-app-builder-open) [![GitHub stars](https://img.shields.io/github/stars/totalumlabs/ai-app-builder-open?style=social&color=white)](https://github.com/totalumlabs/ai-app-builder-open/stargazers)
+### 19. 🧱 [Totalum AI App Builder](https://github.com/totalumlabs/ai-app-builder-open) [![GitHub_Stars](https://img.shields.io/github/stars/totalumlabs/ai-app-builder-open?style=social&color=white)](https://github.com/totalumlabs/ai-app-builder-open/stargazers)
 * **Description**: Open-source prompt-to-app builder producing production Next.js 16 full-stack web applications with built-in sandbox execution, database provisioning, auth, and bidirectional GitHub sync.
 * **Tech Stack**: TypeScript, Next.js 16, React 19, Tailwind 4
 * **License**: MIT
 
-### 20. 🐳 [Singulary](https://github.com/sammwyy/singulary) [![GitHub stars](https://img.shields.io/github/stars/sammwyy/singulary?style=social&color=white)](https://github.com/sammwyy/singulary/stargazers)
+### 20. 🐳 [Singulary](https://github.com/sammwyy/singulary) [![GitHub_Stars](https://img.shields.io/github/stars/sammwyy/singulary?style=social&color=white)](https://github.com/sammwyy/singulary/stargazers)
 * **Description**: Self-hosted FOSS v0/Lovable alternative with real Docker container isolation for every project. Provisions PostgreSQL, MySQL, Redis, MongoDB, and MinIO from a built-in catalog with Monaco editor and token accounting.
 * **Tech Stack**: TypeScript, Docker, Monaco Editor
 * **License**: GPL-3.0
@@ -220,7 +220,7 @@ Contributions from engineers, researchers, and developers are warmly welcomed!
 
 1. 🍴 **Fork the Repository**: Click the Fork button at the top right of this page.
 2. 🌿 **Create a Feature Branch**: `git checkout -b feat/add-synthetic-compiler`.
-3. 📝 **Add Your Entry**: Ensure entries include official links, star badges, accurate licensing, exact starting tier prices, and explicit free tier or trial parameters.
+3. 📝 **Add Your Entry**: Ensure entries include official links, Stars_Badges, accurate licensing, exact starting tier prices, and explicit free tier or trial parameters.
 4. 📬 **Submit a Pull Request**: Provide a clear explanation of how the addition enriches the synthetic code generation compiler ecosystem.
 
 ---
